@@ -86,6 +86,20 @@ Update the issue with any and all learnings / what was actually done
 - Create a short video to showcase the code working as designed and attach to the PR.
 - In cases where a video doesn't make sense then screenshots can be attached instead.
 
+## Agent skills
+
+### Issue tracker
+
+Issues live in the repo's GitHub Issues. External PRs are not a triage surface. See `docs/agents/issue-tracker.md`.
+
+### Triage labels
+
+Default label names: `needs-triage`, `needs-info`, `ready-for-agent`, `ready-for-human`, `wontfix`. See `docs/agents/triage-labels.md`.
+
+### Domain docs
+
+Single-context: one `CONTEXT.md` and `docs/adr/` at the repo root. See `docs/agents/domain.md`.
+
 # Repo Specific Guidelines
 
 Repo specific guidelines go here.
