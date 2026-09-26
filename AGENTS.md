@@ -86,6 +86,17 @@ Update the issue with any and all learnings / what was actually done
 - Create a short video to showcase the code working as designed and attach to the PR.
 - In cases where a video doesn't make sense then screenshots can be attached instead.
 
+## Approvals
+
+Generally speaking, I approve of the actions, commands, and tools required to complete the task I requested.
+
+Approve the commands and tools needed to complete the task. Ask me first only when there is a real concern 
+about exposing sensitive information or an action goes far beyond what I requested in an irreversible way.
+
+When a step doesn't need my input, keep going. Put status notes in the same message as your next action.
+Stop and ask only when you can't continue without me, or before anything destructive: deleting data, 
+force-pushing, or changing anything outside this repository.
+
 ## Agent skills
 
 ### Issue tracker
